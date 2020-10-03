@@ -2,7 +2,9 @@
 
 My name is Diogo Jhony, but you can call me **Jhony** 😁.
 
-I'm super passionate about the best technologies in Web and Mobile development. I've been working as Full-Stack JavaScript Developer at [Oi](https://www.oi.com.br/). In my spare time, I'm working as a Freelancer React Native at [Cataki](https://cataki.org/)
+I'm super passionate about the best technologies in Web and Mobile development.
+
+I've been working as Front-end Developer at [Sysmap](https://www.sysmap.com.br) and in my spare time I'm working as a Freelancer React Native at [Cataki](https://cataki.org/)
 
 Would you like to know me more? 👇
 
